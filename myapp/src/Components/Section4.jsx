@@ -19,7 +19,7 @@ export default function Section4() {
                             <a className="social-icons" href="https://in.linkedin.com/in/shubham-lakhmani-02b3401ba"><SiLinkedin /></a>
                         </Grid>
                     <Grid item xs={6} md={2}>
-                            <a className="social-icons" href="https://github.com/Shubham-Lakhmani"><SiGithub/></a>
+                            <a className="social-icons" href="https://github.com/theshubhamdev"><SiGithub/></a>
                         </Grid>
                         <Grid item xs={6} md={2} >
                             <a className="social-icons" href="https://www.instagram.com/_jordan_rock/"><SiInstagram /></a>

@@ -20,6 +20,10 @@ export default function Section3() {
                         {/*  eslint-disable-next-line */}
                         <a className="text-secondary" href="https://play.google.com/store/apps/details?id=com.thestandard.main" target="_blank"><h4>The Standard Android App</h4></a>
                     </Grid>
+                    <Grid>
+                        {/*  eslint-disable-next-line */}
+                        <a className="text-secondary" href="https://play.google.com/store/apps/details?id=com.tictactoe.theshubham" target="_blank"><h4>Tic Tac Toe Game</h4></a>
+                    </Grid>
                 </Grid>
             </Grid>
         </Fade>

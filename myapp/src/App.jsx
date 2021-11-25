@@ -9,7 +9,15 @@ import Section3 from "./Components/Section3";
 import Section4 from "./Components/Section4";
 
 import "./Styles.css";
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function (e) {
+      e.preventDefault();
 
+      document.querySelector(this.getAttribute('href')).scrollIntoView({
+          behavior: 'smooth'
+      });
+  });
+});
 export default function App() {
   return (
     <React.Fragment>
