@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="http://theshubham.in" target="_blank">theshubham.in</a>
+  <a href="https://theshubham.in" target="_blank">theshubham.in</a>
 </h2>
 <center>
 
